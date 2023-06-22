@@ -1,4 +1,4 @@
-# Exp-6 SET OPERATIONS.
+# Exp-19 SET OPERATIONS.
 ## AIM:
 To write a sql query to perform set operations on two tables.
 ## PROCEDURE:
